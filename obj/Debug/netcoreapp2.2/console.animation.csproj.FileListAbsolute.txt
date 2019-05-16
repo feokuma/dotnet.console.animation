@@ -1,0 +1,11 @@
+C:\Users\FernandoOkuma\Development\dotnetcore-2.2\console.animation\bin\Debug\netcoreapp2.2\console.animation.deps.json
+C:\Users\FernandoOkuma\Development\dotnetcore-2.2\console.animation\bin\Debug\netcoreapp2.2\console.animation.runtimeconfig.json
+C:\Users\FernandoOkuma\Development\dotnetcore-2.2\console.animation\bin\Debug\netcoreapp2.2\console.animation.runtimeconfig.dev.json
+c:\Users\FernandoOkuma\Development\dotnetcore-2.2\console.animation\bin\Debug\netcoreapp2.2\console.animation.dll
+c:\Users\FernandoOkuma\Development\dotnetcore-2.2\console.animation\bin\Debug\netcoreapp2.2\console.animation.pdb
+c:\Users\FernandoOkuma\Development\dotnetcore-2.2\console.animation\obj\Debug\netcoreapp2.2\console.animation.csprojAssemblyReference.cache
+c:\Users\FernandoOkuma\Development\dotnetcore-2.2\console.animation\obj\Debug\netcoreapp2.2\console.animation.csproj.CoreCompileInputs.cache
+c:\Users\FernandoOkuma\Development\dotnetcore-2.2\console.animation\obj\Debug\netcoreapp2.2\console.animation.AssemblyInfoInputs.cache
+c:\Users\FernandoOkuma\Development\dotnetcore-2.2\console.animation\obj\Debug\netcoreapp2.2\console.animation.AssemblyInfo.cs
+c:\Users\FernandoOkuma\Development\dotnetcore-2.2\console.animation\obj\Debug\netcoreapp2.2\console.animation.dll
+c:\Users\FernandoOkuma\Development\dotnetcore-2.2\console.animation\obj\Debug\netcoreapp2.2\console.animation.pdb
